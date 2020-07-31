@@ -21,7 +21,7 @@ The Nanodegree is broken up into 4 main chapters:
   - Data Types & Variables  
   - Conditionals  
   - Loops  
-  - Funtions  
+  - Functions  
   - Arrays  
   - Objects
 
